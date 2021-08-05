@@ -1,0 +1,63 @@
+Step 3: Add user to the database.
+User: qahpnbxe_qahpnbx
+Database: qahpnbxe_rcdp
+Password: qbfMODPV%@1Z
+
+
+documentpost2021
+
+
+
+New Account Information
+
+Hosting Package: Economy
+Domain: documentpost.rw
+
+Login Details
+
+Username: qahpnbxe
+Password: qbfMODPV%@1Z
+
+Control Panel URL: http://kifaru.afriregister.com:2082/
+Once your domain has propogated, you may also use http://www.documentpost.rw:2082/
+
+Server Information
+
+Server Name: Kifaru
+Server IP: kifaru.afriregister.com
+
+If you are using an existing domain with your new hosting account, you will need to update the nameservers to point to the nameservers listed below.
+
+Nameserver 1: ns5.afriregister.com
+Nameserver 2: ns6.afriregister.com
+
+Uploading Your Website
+
+Temporarily you may use one of the addresses given below to manage your web site:
+
+Temporary FTP Hostname: kifaru.afriregister.com
+Temporary Webpage URL: http://kifaru.afriregister.com/~qahpnbxe/
+
+And once your domain has propagated you may use the details below:
+
+FTP Hostname: documentpost.rw
+Webpage URL: http://www.documentpost.rw
+
+Email Settings
+
+For email accounts that you setup, you should use the following connection details in your email program:
+
+POP3 Host Address: mail.documentpost.rw
+SMTP Host Address: mail.documentpost.rw
+Username: The email address you are checking email for
+Password: As specified in your control panel
+
+Mail() function disabled
+
+This is to inform you that mail() function is disabled for security reasons. Please use SMTP to send emails from your website.
+
+FAQ
+
+For other information, please click this link https://afriregister.rw/faq.php.
+
+Thank you for choosing us.
